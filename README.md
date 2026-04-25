@@ -1,1 +1,1 @@
-# rag_langchain
+# Create a RAG setup using LangChain.
